@@ -1,7 +1,7 @@
 # Advanced Network Design with VLSM
 
 ## Overview
-This project presents a comprehensive network design utilizing VLSM for efficient IP address usage across multiple cities. It includes a simulated environment where various network services are implemented.
+This project presents a comprehensive network design utilizing VLSM for efficient IP address usage across multiple cities. It includes a simulated environment where various network services are implemented. **Due to GitHub's file size limit the .pkt was not uploaded. Contact if needed.**
 
 ## Features
 - Detailed subnetting for multiple locations.
