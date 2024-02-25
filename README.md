@@ -25,6 +25,6 @@ Feel free to fork the repository, adjust the network designs, add new services, 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- This project was completed alongside 3 other individuals, their identities were not revealed for privacy reasons.
+- This project was completed alongside 3 other colleagues, their identities were not revealed for privacy reasons.
 - Special thanks to Qatar University College of Engineering for the guidance.
 - Appreciation to Eng. Heba Dawoud for lab instruction.
